@@ -1,6 +1,6 @@
 # Hi, I'm Dong Nguyen
 
-**Senior Software Engineer** — distributed systems, logistics technology, and practical AI applications. Ho Chi Minh City, Vietnam.
+**Senior Software Engineer** — distributed systems, intelligent technology, and practical AI applications. Ho Chi Minh City, Vietnam.
 
 I build high-availability, production-grade systems: system architecture, integration platforms, and AI/ML solutions tied to measurable outcomes. 15 years of experience across logistics, e-commerce, and enterprise software.
 
